@@ -8,7 +8,9 @@ import utilities.ReusableMethods;
 import utilities.TestBase;
 
 public class C01_PozitifLoginTesti extends TestBase {
+ /*
 
+  */
     @Test
     public void pozitifLoginTesti(){
         // 1- https://www.testotomasyonu.com/ anasayfasina gidin
