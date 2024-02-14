@@ -7,6 +7,7 @@ import pages.TestOtomasyonPage;
 import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.ReusableMethods;
+import utilities.TestBaseRapor;
 
 public class C02_RaporluAramaSepetiTesti extends TestBaseRapor {
 

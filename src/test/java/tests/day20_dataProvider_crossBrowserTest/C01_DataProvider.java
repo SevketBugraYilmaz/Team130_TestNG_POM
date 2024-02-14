@@ -1,5 +1,6 @@
 package tests.day20_dataProvider_crossBrowserTest;
 
+import org.openqa.selenium.Keys;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
@@ -7,6 +8,7 @@ import pages.TestOtomasyonPage;
 import utilities.ConfigReader;
 import utilities.Driver;
 import utilities.ReusableMethods;
+import utilities.TestBaseRapor;
 
 public class C01_DataProvider extends TestBaseRapor {
 
